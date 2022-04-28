@@ -8,5 +8,6 @@ pip install svgpathtools
 
 pip install svg.path
 
-pip install tqdm ```
+pip install tqdm 
+```
 
